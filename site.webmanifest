@@ -1,0 +1,14 @@
+{
+  "name": "Peinture Boisbriand — Service rapide",
+  "short_name": "Peinture Boisbriand",
+  "description": "Peintres rapides à Boisbriand pour condos, townhouses et petits commerces.",
+  "lang": "fr-CA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#d96f3a",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
